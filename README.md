@@ -11,6 +11,9 @@
 
 
 ## Установка
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b389dba0709d4604a05a164b319fb5aa)](https://app.codacy.com/gh/shketov/bomber-api?utm_source=github.com&utm_medium=referral&utm_content=shketov/bomber-api&utm_campaign=Badge_Grade)
+
 `npm install bomber-api`
 
 `const bomber = require("bomber-api")`
